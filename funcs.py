@@ -6,5 +6,3 @@ def subtraction():
     sub = 15 -  7
     return sub
 
-print(calculate())
-print(subtraction())
